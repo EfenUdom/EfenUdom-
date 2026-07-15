@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # EfenUdom-
 # **UDOM EFEN ODUDU**
 **IT Support & Cybersecurity Specialist**
